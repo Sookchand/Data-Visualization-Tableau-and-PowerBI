@@ -30,12 +30,10 @@ https://github.com/Sookchand/Data-Visualization-Tableau-and-PowerBI/blob/main/T_
 Tableau and Power BI both have extensive documentation available online. The official Tableau documentation can be found at help.tableau.com and the official Power BI documentation can be found at docs.microsoft.com/power-bi. Both websites have detailed tutorials, user guides, and other resources to help users get started with the products.
 
 ## 🚀 About Me
-I'm a full stack developer...
+I have experience as a data scientist and machine learning engineer. I have worked on projects involving the development of predictive models, the optimization of machine learning algorithms, and the deployment of machine learning models. I have also worked on projects involving the analysis of large datasets, the development of data-driven insights, and the creation of data visualizations.
 
 
 ## Tech Stack
-
-**Client:** React, Redux, TailwindCSS
-
-**Server:** Node, Express
+Tableau
+PowerBI
 
