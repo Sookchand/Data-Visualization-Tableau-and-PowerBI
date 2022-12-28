@@ -23,8 +23,7 @@ Johns Questions are:
 
 ## Demo
 
-https://github.com/Sookchand/Data-Visualization-Tableau-and-PowerBI/blob/main/T_Dash.jpg
-
+![image](https://user-images.githubusercontent.com/34344439/209881479-15ed8292-4ed9-49e6-9d19-7a95291794f4.png)
 ## Documentation
 
 Tableau and Power BI both have extensive documentation available online. The official Tableau documentation can be found at help.tableau.com and the official Power BI documentation can be found at docs.microsoft.com/power-bi. Both websites have detailed tutorials, user guides, and other resources to help users get started with the products.
